@@ -57,7 +57,7 @@ body {
 
 /* Шапка */
 header {
-  background-image: url(/images/Main.png);
+  background-image: url(/Main.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -123,7 +123,7 @@ header {
 }
 
 .menu1 {
-    background-image: url(/images/menu1.jpg);
+    background-image: url(/menu1.jpg);
     background-position-y: 22%;
     background-size: cover;
     color: #272525;
@@ -142,7 +142,7 @@ header {
   }
 
 .menu2 {
-  background-image: url(/images/menu2.jpg);
+  background-image: url(/menu2.jpg);
   background-size: cover;
   background-position-y: 17%;
     color: #ffffffdc;
